@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel en el olvido, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Piel en el olvido, Vol. 2** (piel-en-el-olvido-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T20:23:04.212499 | `v1` | `7d92b548cd06ff2d462824ab468a2ef3f7b48035701e19003a269da688d6425d` | `e0027c436cfc61784ed48f4de5e9b22596a3756fc808c8ff977f4d9e086b2f07` | `2026-06-20_piel-en-el-olvido-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

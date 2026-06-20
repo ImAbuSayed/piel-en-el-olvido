@@ -1,4 +1,4 @@
-# Piel en el olvido
+# Piel en el olvido, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Piel en el olvido |
+| **Title** | Piel en el olvido, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-en-el-olvido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Piel en el olvido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-en-el-olvido/) |
+| **Get License** | [Get a Licensing Quote for Piel en el olvido, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-en-el-olvido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Piel en el olvido, noche de pasión
+> Tus labios son mi vicio, dulce tentación
+> Bailando entre las sombras, sin ninguna explicación
+> Solo tú y yo perdidos en esta canción
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7d92b548cd06ff2d462824ab468a2ef3f7b48035701e19003a269da688d6425d` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
